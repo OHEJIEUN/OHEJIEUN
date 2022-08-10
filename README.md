@@ -20,7 +20,7 @@
 <div align="center">
   <h3>💡Project💡</h3>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OHEJIEUN&repo=GDJ45_YOGIOTEUR&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OHEJIEUN&repo=GDJ45_YOGIOTEUR&theme=moltack)](https://github.com/OHEJIEUN/GDJ45_YOGIOTEUR.git)
 </div>
 
 
@@ -39,5 +39,3 @@
 
   ![OHEJIEUN's github stats](https://github-readme-stats.vercel.app/api?username=OHEJIEUN&theme=react&show_icons=true)
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=30&height=260)
