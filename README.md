@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=gradient&customColorList=30&text=OHE%20JIEUN%20&desc=BackEnd%20Developer&height=260&fontSize=80&descSize=20&fontColor=fff&fontAlign=50&descAlign=63&fontAlignY=40&descAlignY=58&animation=fadeIn)
 
 <p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234C4F4A&title_bg=%2321D6A8&icon=github.svg&icon_color=%23474141&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOHEJIEUN&count_bg=%23696F64&title_bg=%2328DE94&icon=github.svg&icon_color=%23444744&title=hits&edge_flat=false"/></a>
 </p>
 
 <div align="center">
