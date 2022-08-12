@@ -14,11 +14,12 @@
 <div align="center">
   <h3>📝️About Me📝️</h3>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&duration=4000&pause=1500&color=292E36&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%91%8BHi!+there%2C+I'm+Jieun.;I'm+currently+learning+Web.;(using+JAVA%2C+Spring%F0%9F%8C%B1);%F0%9F%91%80+I'm+interested+in+All+of+Back-end+Development.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&duration=4000&pause=1500&color=2B3A3E&center=true&vCenter=true&multiline=true&width=450&height=150&lines=%F0%9F%91%8B+Hi!+there%2C+I'm+Jieun.;I'm+currently+learning+Web.;(using+JAVA%2C+Spring%F0%9F%8C%B1);%F0%9F%91%80+I'm+interested+in+All+of+Back-end+development.;Wanna+be+a+Backend+Developer+who+focus+on+basics!)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
   <h3>💡Project💡</h3>
+  사이트 : http://yogioteur.cafe24.com/
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OHEJIEUN&repo=GDJ45_YOGIOTEUR&theme=moltack)](https://github.com/OHEJIEUN/GDJ45_YOGIOTEUR.git)
 </div>
